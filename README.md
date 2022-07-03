@@ -1,12 +1,10 @@
 # Aprendiendo de a poquito
 ## Un repositorio para aprender.
 
-### Subir una imagen. 
 
+![descarga](https://user-images.githubusercontent.com/105983635/177060333-42b35d9f-ab31-4ead-82fb-919fb6ee3668.png)
 
-![Foto CV](https://user-images.githubusercontent.com/105983635/177022647-6798b45b-3275-4046-b5b4-8856effbf9f4.png)
-
-_Esta es mi fotografía_
+_Esta es una imagen que acabo de subir._
 
 ---
 
@@ -15,7 +13,7 @@ _Esta es mi fotografía_
 
 Puedo agregar links. Por ejemplo:
 
-><https://www.ispc.edu.ar>
+>https://www.ispc.edu.ar
 ---
 
 También puedo usar casillas de verificación:
@@ -28,6 +26,12 @@ Aquí puede ir la info destacada
 ```
 ---
 
-Y también se pueden añadir iconitos como éstos :bulb: :traffic_light: :football:
+Y también se pueden añadir iconitos como éstos :bulb: :traffic_light: :football: :heart:
 
 ---
+
+Se pueden agregar videos de youtube...
+https://www.youtube.com/watch?v=PJuNmlE74BQ&t=8s
+
+---
+> Y un montón de otras cosas que aún no he aprendido.
