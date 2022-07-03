@@ -8,8 +8,26 @@
 
 _Esta es mi fotografía_
 
-Se puede dar formato al texto utlizando lenguaje HTML o utilizando la sintaxis MARKDOWN.
+---
+
+>Se puede dar formato al texto utlizando lenguaje **HTML** o utilizando la sintaxis **MARKDOWN**.
+ 
 
 Puedo agregar links. Por ejemplo:
 
-<https://www.ispc.edu.ar>
+><https://www.ispc.edu.ar>
+---
+
+También puedo usar casillas de verificación:
+- [ ] Python
+- [X] HTML
+- [ ] CSS
+---
+```sequence
+Aquí puede ir la info destacada
+```
+---
+
+Y también se pueden añadir iconitos como éstos :bulb: :traffic_light: :football:
+
+---
