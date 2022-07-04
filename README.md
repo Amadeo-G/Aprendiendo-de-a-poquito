@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=PJuNmlE74BQ&t=8s
 
 ---
 > Y un montón de otras cosas que aún no he aprendido.
+
+Acabo de instalar dos extensiones en VSC. Una se llama GitHub Pull Request, y la otra GitHub Repositories. Mi VSC se ha reconfigurado. Tengo acceso directo a GitHub desde él y puedo trabajar directamente.
+Voy a probar a subir esta modificación para ver cómo sincroniza.
+
