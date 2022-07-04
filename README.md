@@ -39,3 +39,12 @@ https://www.youtube.com/watch?v=PJuNmlE74BQ&t=8s
 Acabo de instalar dos extensiones en VSC. Una se llama GitHub Pull Request, y la otra GitHub Repositories. Mi VSC se ha reconfigurado. Tengo acceso directo a GitHub desde él y puedo trabajar directamente.
 Voy a probar a subir esta modificación para ver cómo sincroniza.
 
+> Otra cambio que he notado es que han aparecido los loguitos del Gatito de GitHub y del Pull Request en la barra lateral izquierda de mi VSC, lo que me permite trabajar de manera directa. 
+Intentaré subir esto que estoy escribiendo, desde allí. 
+
+> Al guardar los cambios en VSC, me aparece en control de código fuente la leyenda "1 cambio pendiente".
+En el explorador ha aparecido una letra M (de modificado), justa al lado del archivo README.md.
+
+> Voy a hacer Pull Request para ver qué sucede.
+
+
