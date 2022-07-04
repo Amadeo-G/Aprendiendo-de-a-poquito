@@ -46,5 +46,6 @@ Intentaré subir esto que estoy escribiendo, desde allí.
 En el explorador ha aparecido una letra M (de modificado), justa al lado del archivo README.md.
 
 > Voy a hacer Pull Request para ver qué sucede.
-
+---
+Ahora voy a ingresar este comentario, pero sin hacer Pull Request.
 
